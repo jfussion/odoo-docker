@@ -1,4 +1,5 @@
 app/*
+/odoo
 db_volume/*
 portainer/data/*
 proxy/*

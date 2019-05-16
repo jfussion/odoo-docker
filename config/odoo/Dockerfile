@@ -1,3 +1,3 @@
 FROM odoo:12.0
 
-RUN pip3 install redis
+RUN set -x; /bin/bash -c 'pip3 install redis'

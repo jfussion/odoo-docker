@@ -4,4 +4,3 @@ db_volume/*
 portainer/data/*
 proxy/*
 .env
-docker-compose.yml
